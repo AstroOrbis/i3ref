@@ -5,7 +5,7 @@ A command-line reference viewer for i3wm, created because I keep forgetting how 
 
 ## Installation
 
-There are multiple options to install i3ref
+There are multiple options to install i3ref:
 
 1. Cargo
 ```bash
