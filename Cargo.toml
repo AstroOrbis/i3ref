@@ -12,10 +12,10 @@ readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-clap = { version = "4.3.10", features = ["env", "cargo"] }
-inquire = "0.6.2"
+clap = { version = "4.5.7", features = ["env", "cargo"] }
+inquire = "0.7.5"
 maplit = "1.0.2"
-webbrowser = "0.8.10"
+webbrowser = "1.0.1"
 
 [[bin]]
 name = "i3ref"
